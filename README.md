@@ -1,7 +1,7 @@
 # tomghost_write-up
 ## Recon
 ### nmap -A 
-![nmap scan](https://github.com/citadelhack/tomghost_write-up/blob/main/tomghost/decryptattempt.png)
+![nmap scan](https://github.com/citadelhack/tomghost_write-up/blob/main/tomghost/nmap.png)
 
 ### HTTP
 ![webpage](https://github.com/citadelhack/tomghost_write-up/blob/main/tomghost/webhomepage.png)
